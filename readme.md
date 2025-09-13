@@ -1,0 +1,2 @@
+- Phase 0: Set up the project and bring up the /health endpoint.
+- Phase 1: Integrate Supabase (Auth + connection pooling) and complete user_profiles.
